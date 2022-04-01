@@ -1,4 +1,4 @@
-# My Personal Project- 
+# My Personal Project- CPSC 210 UBC 2021
 
 ## Personal Banking Application
 
@@ -28,7 +28,9 @@ of interest.
 - As a user, I want to be able to save my transactions to file, particularly my balance.
 - As a user, I want to be able to load my transactions from file, particularly my balance.
 
+
 ## Phase 4: Task 2
+This is a Logger of how steps were carried out by the application on user commands.
 
 Wed Nov 24 20:56:39 PST 2021
 Added money to account!
@@ -61,6 +63,7 @@ Wed Nov 24 20:56:53 PST 2021
 returns in workroom as a JSON array
 
 ## Phase 4: Task 3
+- If given a chance the following would be implemented for making it clean and reusable.
 
 If I had more time to work on my project, I would have attempted the following
 refactoring to improve my design: 
